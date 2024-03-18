@@ -5,3 +5,7 @@ This is basically the documentation. Idk what that means but it sounds really im
 ## Subheader
 
 Watch this space...
+
+## Local Development
+
+1. Open the index.html file in your browser to display project
